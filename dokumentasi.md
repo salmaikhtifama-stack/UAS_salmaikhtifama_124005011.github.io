@@ -50,19 +50,19 @@ Form input data menu baru dengan field:
 
 ### Form kosong (sebelum diisi)
 
-![Form Tambah Menu](\_menu.PNG)
+![Form Tambah Menu](+menu.PNG)
 
 ### Form diisi (contoh: Never Potato Pink)
 
-![Form Tambah Diisi](\_menu2.PNG)
+![Form Tambah Diisi](+menu2.PNG)
 
 ### Hasil setelah data disimpan — tampil di halaman Menu
 
-![Menu Setelah Tambah](after_menu.PNG)
+![Menu Setelah Tambah](after+menu.PNG)
 
 ### Data tersimpan di database
 
-![Database Setelah Tambah](db_after_menu.PNG)
+![Database Setelah Tambah](db_after+menu.PNG)
 
 ---
 
